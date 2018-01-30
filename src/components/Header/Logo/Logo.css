@@ -1,0 +1,18 @@
+.Logo {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.Logo .InstagramIcon {
+    color: #262626;
+    padding-right: 1.4rem;
+    border-right: 1px solid gray;
+}
+
+.Logo .InstagramLogo {
+    max-height: none;
+    height: 35px;
+    padding-left: 1rem;
+    margin-top: 5px;
+}

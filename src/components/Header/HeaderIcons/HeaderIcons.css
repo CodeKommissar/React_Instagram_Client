@@ -1,0 +1,10 @@
+.HeaderIcons {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.MiddleIcon {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}

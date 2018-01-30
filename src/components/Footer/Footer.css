@@ -1,0 +1,20 @@
+.Footer {
+   position:absolute;
+   bottom:0;
+   padding: 1rem;
+}
+
+.FooterLinks {
+    font-variant: small-caps;
+    display: flex;
+   justify-content: center;
+}
+
+.FooterLinks a {
+    padding-right: 1rem;
+}
+
+.Copyright {
+    display: flex;
+   justify-content: center;
+}

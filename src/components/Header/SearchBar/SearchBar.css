@@ -1,0 +1,9 @@
+.SearchBar {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.InputSearch {
+    text-align: center;
+}
